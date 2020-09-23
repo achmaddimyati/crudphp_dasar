@@ -7,4 +7,3 @@ if(mysqli_connect_errno())
   }
 
  ?>
-//autoload['library'] :('database')
